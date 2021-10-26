@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pancak3boy
+- 👀 I’m interested in scripting
+- 🌱 I’m currently learning lua,python
+- 📫 How to reach me Pancake_Boy#2388 or https://www.youtube.com/channel/UCiLKHariYhzJKcsKXH4j2xw
